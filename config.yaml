@@ -67,7 +67,7 @@ params:
             default: Licensed under CC BY-NC-SA 4.0
 
     comments:
-        enabled: true
+        enabled: false
         provider: disqus
 
         disqusjs:
@@ -157,6 +157,12 @@ params:
                   limit: 10
         page:
             - type: toc
+        
+        # # 启用其他功能
+        # enabled:
+        #     - search
+        #     # - archives
+        #     # - tag-cloud
 
     opengraph:
         twitter:
@@ -193,58 +199,30 @@ menu:
         - identifier: home # id/标识
           name: Home # 显示内容
           url: / # URL
-          weight: 10 # 权重
+          weight: -100 # 权重
           params: # 参数配置
             icon: home # 图标
             newTab: false # 点击打开新标签页
-        - identifier: search
-          name: 搜索
-          url: /search
-          weight: 20
-          params:
-            icon: search
-            newTab: false
-        - identifier: tag
-          name: 标签
+        - identifier: tags
+          name: Tags
           url: /tags
-          weight: 30
+          weight: -90
           params:
             icon: tag
             newTab: false
         - identifier: categories
-          name: 分类
+          name: categories
           url: /categories
-          weight: 40
+          weight: -80
           params:
             icon: categories
-            newTab: false
-        - identifier: archives
-          name: 归档
-          url: /archives
-          weight: 50
-          params:
-            icon: archives
-            newTab: false
-        - identifier: links
-          name: 链接
-          url: /links
-          weight: 60
-          params:
-            icon: link
-            newTab: false
-        - identifier: about
-          name: 关于
-          url: /about
-          weight: 70
-          params:
-            icon: user
             newTab: false
 
 
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+          url: https://github.com/zhuaowei
           params:
               icon: brand-github
 
@@ -258,7 +236,7 @@ related:
     includeNewer: true
     threshold: 60
     toLower: false
-    indices: # 只使用 tags
+    indices:
         - name: tags
           weight: 100
 
