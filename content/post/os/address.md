@@ -4,7 +4,7 @@ date: 2022-09-25T20:56:50+08:00
 draft: false
 
 tags: ["计算机操作系统", "CPU寻址"]
-categories: "计算机操作系统"
+categories: ""
 description: ""
 ---
 
