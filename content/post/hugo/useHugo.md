@@ -84,7 +84,8 @@ theme = "paper"
 
 还可以复制主题paper文件夹下的配置，根据自己的需要修改配置。
 
-> 配置中的 `baseURL` 是你将来访问站点的URL，一些网页内的页面跳转需要用到，不要写错。
+> 1. 配置中的 `baseURL` 是你将来访问站点的URL，一些网页内的页面跳转需要用到，不要写错。
+> 2. 目前使用的主题不是Paper，而是 [hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack)，这个主题默认的功能比较多，也比较好看，推荐使用。
 
 **添加内容**
 

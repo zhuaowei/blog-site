@@ -3,7 +3,7 @@ title: "使用云服务器搭建个人图床"
 date: 2022-08-13T18:44:50+08:00
 draft: false
 
-tags: ["服务器", "图床"]
+tags: ["服务器", "图床", "Hugo"]
 description: ""
 image: "http://upload.zhuaowei.top/api/image/2E0F73FBB49016A3B580C580A2DB4956.png"
 ---
