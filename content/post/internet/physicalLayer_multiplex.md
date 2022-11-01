@@ -1,7 +1,8 @@
 ---
-title: "物理层——信道复用技术（Division Multiplexing）"
+title: "信道复用技术 Division Multiplexing"
 date: 2022-10-29T22:06:41+08:00
 draft: false
+math: true
 
 tags: ["计算机网络", "物理层", "信道复用技术"]
 categories: ""

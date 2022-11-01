@@ -1,5 +1,5 @@
 ---
-title: "物理层——基本概念与常识"
+title: "物理层的基本概念与常识"
 date: 2022-10-29T22:01:32+08:00
 draft: false
 math: true

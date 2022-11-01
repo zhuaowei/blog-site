@@ -1,11 +1,12 @@
 ---
-title: "应用层——文件传输协议（FTP）"
+title: "文件传输协议 FTP"
 date: 2022-10-29T21:54:13+08:00
 draft: false
+math: false
 
-tags: ["计算机网络", "FTP", "文件传输协议"]
+tags: ["计算机网络", "应用层", "FTP", "文件传输协议"]
 categories: ""
-description: "总结计算机网络应用层的文件传输协议"
+description: "应用层——文件传输协议 FTP"
 ---
 
 ## 1、FTP 概述
