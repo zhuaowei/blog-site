@@ -18,9 +18,9 @@ menu:
 comments: false
 ---
 
-To use this feature, add `links` section to frontmatter.
+给文章添加友链，需要在文章的 `frontmatter` 中添加 `links` 部分。
 
-This page's frontmatter:
+下面是本文的 `frontformatter` :
 
 ```yaml
 links:
@@ -34,4 +34,4 @@ links:
     image: ts-logo-128.jpg
 ```
 
-`image` field accepts both local and external images.
+`image` 属性支持本地图片和外部图片。

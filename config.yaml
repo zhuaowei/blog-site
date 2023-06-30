@@ -148,7 +148,7 @@ params:
             - type: search
             - type: archives
               params:
-                  limit: 5
+                 limit: 5
             - type: categories
               params:
                   limit: 10
@@ -217,7 +217,6 @@ menu:
           params:
             icon: categories
             newTab: false
-
 
     social:
         - identifier: github
