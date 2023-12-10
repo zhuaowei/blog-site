@@ -1,6 +1,6 @@
 ---
-title: "Leetcode_1038_binaryTreeToGreaterSumTree"
-date: 2023-12-05T12:04:36+08:00
+title: "LeetCode 1038. 从二叉搜索树到更大和树"
+date: 2023-12-04T12:04:36+08:00
 draft: false
 math: true
 
