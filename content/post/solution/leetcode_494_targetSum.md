@@ -1,15 +1,15 @@
 ---
-title: "LeetCode 564. 目标和"
+title: "LeetCode 494. 目标和"
 date: 2023-12-10T19:10:35+08:00
 draft: false
 math: true
 
-tags: ["LeetCode", "DP", "背包问题", "01背包问题"]
+tags: ["LeetCode", "DP", "背包问题", "01背包"]
 categories: ""
 description: "因为求解过程中会产生负数，不能简单地使用 dp 表进行动态规划，可以使用两层哈希表作为 dp 表，也可以使结果整体偏移 sum 求解，下面使用的是转化成 01 背包问题的解。"
 ---
 
-> [LeetCode 564. 目标和](https://leetcode.cn/problems/target-sum/)
+> [LeetCode 494. 目标和](https://leetcode.cn/problems/target-sum/)
 > 
 > [算法讲解073【必备】背包dp-01背包、有依赖的背包](https://www.bilibili.com/list/)
 

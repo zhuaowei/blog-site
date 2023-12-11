@@ -4,7 +4,7 @@ date: 2023-12-10T19:26:20+08:00
 draft: false
 math: true
 
-tags: ["LeetCode", "DP", "背包问题", "01背包问题"]
+tags: ["LeetCode", "DP", "背包问题", "01背包"]
 categories: ""
 description: "将一组石头分成两组，分别捏成两个大石头，则抵消后的结果为较大的减去较小的那块。如果要让结果尽量小，则需要让两堆石头的重量尽量接近。"
 ---

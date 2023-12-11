@@ -4,7 +4,7 @@ date: 2023-12-10T11:59:20+08:00
 draft: false
 math: true
 
-tags: ["ACWing", "DP", "背包问题", "01背包问题"]
+tags: ["ACWing", "DP", "背包问题", "01背包"]
 categories: ""
 description: "经典背包问题，考虑每个物品选与不选，在不超过背包容量的情况下获取的物品价值的最大值。"
 ---
@@ -70,7 +70,7 @@ public class Main {
                 in.nextToken(); volumes[i] = (int)in.nval;
                 in.nextToken(); values[i] = (int)in.nval;
             }
-            System.out.println(compute());
+            out.println(compute());
         }
         out.flush();
         out.close();

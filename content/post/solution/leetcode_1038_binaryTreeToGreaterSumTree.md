@@ -6,7 +6,7 @@ math: true
 
 tags: ["LeetCode", "二叉树", "二叉搜索数", "Morris中序遍历", "每日一题"]
 categories: ""
-description: "使用 Morris 方式反向中序遍历二叉树，然后依次修改节点的值。"
+description: "2023-12-04 leetcode 每日一题，使用 Morris 方式反向中序遍历二叉树，然后依次修改节点的值。"
 ---
 
 > [LeetCode 1038. 从二叉搜索树到更大和树](https://leetcode.cn/problems/binary-search-tree-to-greater-sum-tree/)

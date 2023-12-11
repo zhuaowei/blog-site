@@ -4,7 +4,7 @@ date: 2023-12-10T17:00:24+08:00
 draft: false
 math: true
 
-tags: ["LeetCode", "DP", "背包问题", "01背包问题"]
+tags: ["LeetCode", "DP", "背包问题", "01背包"]
 categories: ""
 description: "01 背包问题的转化，需要根据优惠调整自己的预期，使用最终的预期对待定的游戏进行01 背包DP。"
 ---
