@@ -4,9 +4,9 @@ date: 2023-12-16T21:20:01+08:00
 draft: false
 math: true
 
-tags: ["LeetCode", "线段树", "动态开点线段树"]
+tags: ["LeetCode", "线段树", "动态开点线段树", "每日一题"]
 categories: ""
-description: "需要频繁将某个区间的值修改为指定值，频繁查询区间的值，很明显这道题可以使用线段树来求解。"
+description: "2023-12-16 leetcode 每日一题。需要频繁将某个区间的值修改为指定值，频繁查询区间的值，很明显这道题可以使用线段树来求解。"
 ---
 
 > [LeetCode 2276. 统计区间中的整数数目](https://leetcode.cn/problems/count-integers-in-intervals/)
