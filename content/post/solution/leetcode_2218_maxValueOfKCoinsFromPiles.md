@@ -1,5 +1,5 @@
 ---
-title: "[LeetCode 2218. 从栈中取出 K 个硬币的最大面值和"
+title: "LeetCode 2218. 从栈中取出 K 个硬币的最大面值和"
 date: 2023-12-11T17:29:33+08:00
 draft: false
 math: true
