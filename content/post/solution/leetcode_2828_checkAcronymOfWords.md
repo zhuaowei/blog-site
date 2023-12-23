@@ -4,7 +4,7 @@ date: 2023-12-20T22:04:39+08:00
 draft: false
 math: true
 
-tags: ["LeetCode", "字符串", "数组"]
+tags: ["LeetCode", "字符串", "数组", "每日一题"]
 categories: ""
 description: "2023-12-20 leetcode 每日一题。依次判断字符串数组中每个字符串的首字母，是否与目标字符串的字符相等。"
 ---

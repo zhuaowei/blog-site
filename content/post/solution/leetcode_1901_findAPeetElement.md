@@ -4,7 +4,7 @@ date: 2023-12-19T22:00:58+08:00
 draft: false
 math: true
 
-tags: ["LeetCode", "二分"]
+tags: ["LeetCode", "二分", "每日一题"]
 categories: ""
 description: "2023-12-19 leetcode 每日一题。使用二分，根据上山路径的方向，不断缩小区间的范围，确定峰值所在的行。"
 ---
