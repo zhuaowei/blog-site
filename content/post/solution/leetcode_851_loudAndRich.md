@@ -4,7 +4,7 @@ date: 2023-12-22T23:13:31+08:00
 draft: false
 math: true
 
-tags: ["LeetCode", "拓扑排序", "DP", "树形DP"]
+tags: ["LeetCode", "拓扑排序", "DP", "树型DP"]
 categories: ""
 description: "根据输入的财富关系，我们可以得到一个财富关系图，按照拓扑排序从最有钱的依次遍历，比较前后两人的安静值，得到更符合要求的答案。"
 ---

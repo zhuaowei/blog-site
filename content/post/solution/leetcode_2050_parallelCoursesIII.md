@@ -4,7 +4,7 @@ date: 2023-12-23T15:12:06+08:00
 draft: false
 math: true
 
-tags: ["LeetCode", "拓扑排序", "树形DP", "DP"]
+tags: ["LeetCode", "拓扑排序", "DP", "树型DP"]
 categories: ""
 description: "完成某一个课程的最短时间为完成所有前置课程的最大时间加上本课程的时间。根据课程的前置关系建图，按照拓扑排序求出下一门课程的最短时间，即完成前置课程和下一门课程的最大时间。"
 ---
