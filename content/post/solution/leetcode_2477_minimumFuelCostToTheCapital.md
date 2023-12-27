@@ -4,7 +4,7 @@ date: 2023-12-05T11:07:39+08:00
 draft: false
 math: true
 
-tags: ["LeetCode", "图", "DFS", "每日一题"]
+tags: ["LeetCode", "图", "DFS", "DP", "树型DP", "每日一题"]
 categories: ""
 description: "2023-12-05 leetcode 每日一题，使用 DFS 在递归过程中动态调整乘坐车辆的数量，达到油耗最低。"
 ---
